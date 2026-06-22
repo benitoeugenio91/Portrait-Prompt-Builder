@@ -1,0 +1,6 @@
+{
+  "name": "Portrait Prompt Builder",
+  "description": "A high-fidelity prompt engineering workbench for generating granular, multi-language portrait annotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

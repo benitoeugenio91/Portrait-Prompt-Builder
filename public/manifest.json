@@ -1,0 +1,20 @@
+{
+  "name": "Portrait Prompt Builder",
+  "short_name": "PromptBuilder",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='192' height='192'><rect width='512' height='512' fill='%230d0d0d'/><circle cx='256' cy='256' r='180' fill='none' stroke='%23c8a882' stroke-width='16'/><path d='M256 120 L256 180 M256 332 L256 392 M120 256 L180 256 M332 256 L392 256 M160 160 L202 202 M310 310 L352 352 M352 160 L310 202 M202 310 L160 352' stroke='%23c8a882' stroke-width='12' stroke-linecap='round'/><circle cx='256' cy='256' r='60' fill='%23c8a882'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'><rect width='512' height='512' fill='%230d0d0d'/><circle cx='256' cy='256' r='180' fill='none' stroke='%23c8a882' stroke-width='16'/><path d='M256 120 L256 180 M256 332 L256 392 M120 256 L180 256 M332 256 L392 256 M160 160 L202 202 M310 310 L352 352 M352 160 L310 202 M202 310 L160 352' stroke='%23c8a882' stroke-width='12' stroke-linecap='round'/><circle cx='256' cy='256' r='60' fill='%23c8a882'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
